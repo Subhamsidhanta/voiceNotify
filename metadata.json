@@ -1,0 +1,6 @@
+{
+  "name": "VoiceNotify",
+  "description": "Privacy-first Text-to-Speech notification announcer that speaks only the App Name and Sender Name with smart cooldowns, headphone mode, and Quick Settings integration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">VoiceNotify</string>
+    <string name="tile_label">VoiceNotify</string>
+    <string name="tile_subtitle_on">Speaking On</string>
+    <string name="tile_subtitle_off">Speaking Off</string>
+    <string name="service_label">VoiceNotify Notification Reader</string>
+    <string name="master_switch_title">Master Voice Announcer</string>
+    <string name="master_switch_on_desc">Actively announcing app &amp; sender names (emojis skipped)</string>
+    <string name="master_switch_off_desc">All voice announcements are muted</string>
+    <string name="headphone_mode_title">Headphone-Only Mode</string>
+    <string name="headphone_mode_desc">Only speak when wired or Bluetooth audio is connected</string>
+    <string name="permission_banner_title">Notification Access Required</string>
+    <string name="permission_banner_desc">Grant Notification Listener access so VoiceNotify can announce incoming alerts.</string>
+    <string name="grant_permission_btn">Grant Access</string>
+    <string name="battery_banner_title">Unrestricted Background Usage</string>
+    <string name="battery_banner_desc">Ignore battery optimizations so Android never kills the announcer service.</string>
+    <string name="ignore_battery_btn">Optimize</string>
+    <string name="search_apps_hint">Search apps…</string>
+    <string name="select_all">Select All</string>
+    <string name="deselect_all">Deselect All</string>
+    <string name="test_voice_btn">Test Voice (Skips Emojis)</string>
+    <string name="speech_rate_label">Speech Rate</string>
+    <string name="speech_pitch_label">Voice Pitch</string>
+    <string name="privacy_badge_text">Privacy Shield: Skips emojis • Never reads message body</string>
+    <string name="open_voice_logs_btn">Voice Announcement Logs</string>
+    <string name="voice_log_title">Voice Announcement Logs</string>
+    <string name="voice_log_search_hint">Search logs by app or sender name…</string>
+    <string name="voice_log_empty">No voice announcements found. Tap "Add Sample Log" or trigger a notification from an enabled app.</string>
+    <string name="clear_voice_log">Delete All</string>
+</resources>
